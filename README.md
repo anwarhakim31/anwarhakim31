@@ -2,7 +2,7 @@
 ##  About me:
 - 🎓 I’m currently Studying as Bachelor Informatics Engineering in Indraprasta PGRI University
 - 💻 I’m currently learning HTML and Javascript
-- 💼 I’m looking for apprenticeship
+- 💼 I’m looking for internship
 - 💬 Ask me about anything
 - 📫 How to reach me: anwarhakim31@gmail.com
 
