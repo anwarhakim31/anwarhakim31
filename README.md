@@ -1,4 +1,4 @@
-# Hi there, I'm Hakim - aka [href="/anwarhakim31/anwarhakim31] 
+# Hi there, I'm Hakim - aka [anwarhakim31] 
 ##  About me:
 - 🎓 I’m currently Studying as Bachelor Informatics Engineering in Indraprasta PGRI University
 - 💻 I’m currently learning HTML and Javascript
