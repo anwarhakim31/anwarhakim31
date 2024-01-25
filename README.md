@@ -1,8 +1,8 @@
-# Hi there, I'm Hakim - aka [anwarhakim31] 👋
-## About me:
+# Hi there, I'm Hakim - aka [anwarhakim31] 
+##  About me:
 - 🎓 I’m currently Studying as Bachelor Informatics Engineering in Indraprasta PGRI University
-- 🌱 I’m currently learning HTML and Javascript
-- 👯 I’m looking for apprenticeship
+- 💻 I’m currently learning HTML and Javascript
+- 💼 I’m looking for apprenticeship
 - 💬 Ask me about anything
 - 📫 How to reach me: anwarhakim31@gmail.com
 
