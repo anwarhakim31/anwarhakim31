@@ -21,11 +21,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-05122A?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-05122A?style=flat&logo=openjdk)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-05122A?style=for-the-badge&logo=adobe%20photoshop&logoColor=white);
-![Figma](https://img.shields.io/badge/figma-05122A.svg?style=flat&logo=figma)&nbsp)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-05122A?style=flat&logo=adobe%20photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/figma-05122A.svg?style=flat&logo=figma)&nbsp;
 
 
 ### ⚙️ GitHub Analytics
