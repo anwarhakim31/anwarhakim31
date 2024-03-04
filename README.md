@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anwar+Hakim!;" />
 </h1>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zydane</h2>
-
 ### 👨🏻‍💻 About Me
 
 - 🎓 I’m currently Studying as Bachelor Informatics Engineering in Indraprasta PGRI University
@@ -36,5 +34,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anwarhakim31&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anwarhakim31&show_icons=true&locale=en&layout=compact" alt="anwarhakim31" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarhakim31&show_icons=true&locale=en" alt="anwarhakim31" /></p>
 
 
