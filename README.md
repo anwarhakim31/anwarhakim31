@@ -1,7 +1,7 @@
 # Hi there, I'm Hakim 
 ##  About me:
 - 🎓 I’m currently Studying as Bachelor Informatics Engineering in Indraprasta PGRI University
-- 💻 I’m currently learning HTML and Javascript
+- 💻 I’m currently learning CSS Framework and Javasript Framework
 - 💼 I’m looking for internship
 - 💬 Ask me about anything
 - 📫 How to reach me: anwarhakim31@gmail.com
