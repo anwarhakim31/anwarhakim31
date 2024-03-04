@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-05122A?style=for-the-badge&logo=adobe%20photoshop&logoColor=white);
-![Figma](https://img.shields.io/badge/figma-05122A.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-05122A.svg?style=flat&logo=figma)&nbsp)
 
 
 ### ⚙️ GitHub Analytics
