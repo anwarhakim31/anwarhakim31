@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=anwarhakim31&color=blue" alt="anwarhakim31" /> </p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&vCenter=true&color=050f2c&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anwar+Hakim!;" />
 </h1>
