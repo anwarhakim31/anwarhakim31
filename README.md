@@ -17,13 +17,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-050f2c?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-050f2c?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050f2c?style=flat&logo=javascript)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-0F172A?&logo=Sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-050f2c?style=flat&logo=bootstrap)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-050f2c?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-050f2c?style=flat&logo=openjdk)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-050f2c?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-050f2c?style=flat&logo=github)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-050f2c?style=flat&logo=adobe%20photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-0F172A?&logo=Figma)&nbsp;
 
 
 
