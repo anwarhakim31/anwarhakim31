@@ -17,11 +17,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-050f2c?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-050f2c?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050f2c?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-050f2c?style=flat&logo=React)&nbsp;
+![NodeJS](https://img.shields.io/badge/-node.js-050f2c?style=flat&logo=node.js)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-050f2c?style=flat&logo=Sass)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-tailwindcss-050f2c?style=flat&logo=tailwindcss)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-050f2c?style=flat&logo=bootstrap)&nbsp;
-![React](https://img.shields.io/badge/-React-050f2c?style=flat&logo=React)&nbsp;
-![NodeJS](https://img.shields.io/badge/-node.js-050f2c?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-050f2c?style=flat&logo=MongoDB&logoColor=green)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-050f2c?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-050f2c?style=flat&logo=openjdk)&nbsp;
