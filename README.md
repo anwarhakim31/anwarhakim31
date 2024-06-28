@@ -22,6 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-050f2c?style=flat&logo=bootstrap)&nbsp;
 ![React](https://img.shields.io/badge/-React-050f2c?style=flat&logo=React)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-node.js-050f2c?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-050f2c?style=flat&logo=MongoDB&logoColor=green)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-050f2c?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-050f2c?style=flat&logo=openjdk)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-050f2c?style=flat&logo=git)&nbsp;
