@@ -18,6 +18,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-050f2c?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050f2c?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-050f2c?style=flat&logo=React)&nbsp;
+![Next.js](https://img.shields.io/badge/-nextdotjs-050f2c?style=flat&logo=nextdotjs)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-node.js-050f2c?style=flat&logo=node.js)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-050f2c?style=flat&logo=Sass)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-tailwindcss-050f2c?style=flat&logo=tailwindcss)&nbsp;
