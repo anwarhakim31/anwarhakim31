@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 About Me 
 
-- 🎓 I'm a Fresh Graduate from Indraprasta PGRI, who is very interested about Web & Mobile Development
+- 🎓 I'm a Fresh Graduate from Indraprasta PGRI, who is very interested about Web especially Front-end Web Developer
 
 - 💻 I am proficient in using React.Js, Nex.Js, Tailwind, Nest.Js, ORM Prisma, etc.
 
