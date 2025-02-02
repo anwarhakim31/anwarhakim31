@@ -7,7 +7,7 @@
 
 - 🎓 I'm a Fresh Graduate from Indraprasta PGRI, who is very interested about Web especially Front-end Web Developer
 
-- 💻 I am proficient in using React.Js, Nex.Js, Tailwind, Nest.Js, ORM Prisma, etc.
+- 💻 I am proficient in using React.Js, Nex.Js, Tailwind, Tanstak Query, Nest.Js, ORM Prisma, etc.
 
 - 💼 I’m seeking collaboration opportunities to enhance my skills and gain more experience
 
