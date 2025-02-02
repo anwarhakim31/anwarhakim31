@@ -5,13 +5,15 @@
 
 ### 👨🏻‍💻 About Me 
 
-- 🎓 I’m currently Studying as Bachelor Informatics Engineering in Indraprasta PGRI University
+- 🎓 I'm a Fresh Graduate from Indraprasta PGRI, who is very interested about Web & Mobile Development
 
-- 💻 I’m currently learning CSS Framework and Javasript Framework
+- 💻 I am proficient in using React.Js, Nex.Js, Tailwind, Nest.Js, ORM Prisma, etc.
 
-- 💼 I’m looking for internship
+- 💼 I’m seeking collaboration opportunities to enhance my skills and gain more experience
 
-- 📫 How to reach me: anwarhakim31@gmail.com
+- 📫 You can shoot me an email at anwarhakim31@gmail.com! and I'll respond as soon as possible.
+
+- ✍️ Or if you are interested and want to get in touch with me, I'll be very open on my [Linkedin](https://www.linkedin.com/in/anwarhakim31) okay!
 
 ### 💻 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-050f2c?style=flat&logo=HTML5)&nbsp;
